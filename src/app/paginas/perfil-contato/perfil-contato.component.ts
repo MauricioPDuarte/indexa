@@ -23,7 +23,8 @@ export class PerfilContatoComponent implements OnInit {
     telefone: '',
     email: '',
     aniversario: '',
-    redes: ''
+    redes: '',
+    avatar: '',
   }
 
   constructor(
