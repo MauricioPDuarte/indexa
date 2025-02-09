@@ -1,0 +1,22 @@
+{
+  "contatos": [
+    {
+      "nome": "João Teste",
+      "telefone": "47988638307",
+      "email": "joao@email.com",
+      "aniversario": "1990-01-06",
+      "redes": "teste",
+      "observacoes": "Teast",
+      "id": 2
+    },
+    {
+      "nome": "Teste",
+      "telefone": "Teste",
+      "email": "Teste@s",
+      "aniversario": "",
+      "redes": "",
+      "observacoes": "",
+      "id": 3
+    }
+  ]
+}
